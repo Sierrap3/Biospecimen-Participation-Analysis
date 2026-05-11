@@ -197,7 +197,7 @@ proc logistic data=cc_data;
 where case_status = 9;
 model specimen_submitted(event='2') = enroll_median;
 run;
-/* Median income (continuous, scaled per $1000) */
+/* Median income (continuous, scaled per $10000) */
 proc logistic data=cc_data;
 where case_status = 9;
 model specimen_submitted(event='2') = medincome_10k;
