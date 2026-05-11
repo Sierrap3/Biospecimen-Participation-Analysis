@@ -51,7 +51,7 @@ Biospecimen participation in this study is not random. It is skewed toward young
 # How to Use  
 1. Clone the repository:
 git clone https://github.com/Sierrap3/Biospecimen-Participation-Analysis
-2. Open SAS and run the scripts located in the /scripts folder. Please note that certain variable names and sections of the code may require modification to align with the structure and naming conventions of the dataset being used.
+2. Open SAS and run the scripts located in the Colon Cancer Analysis SAS file from the repository. Please note that certain variable names and sections of the code may require modification to align with the structure and naming conventions of the dataset being used.
 3. Review generated outputs in the /output folder.
 # Ethics & Data Privacy  
 This project uses a synthetic dataset created by the author.  
