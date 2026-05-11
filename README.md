@@ -1,7 +1,7 @@
 # Biospecimen-Participation-Analysis
 Colon cancer clinical trial analysis using SAS to evaluate how patient demographics and site factors influence consent and tissue submission rates.
 # Overview
-This project investigates factors influencing patient consent and tissue submission in a colon cancer clinical trial using SAS. The analysis evaluates whether demographic variables (race, age, sex, income) and clinical site characteristic are associated with participation, with the goal of identifying potential disparities in research representation and sample availability. 
+This project investigates factors influencing patient consent and tissue submission in a colon cancer clinical trial using SAS. The analysis evaluates whether demographic variables (race, age, sex, income) and clinical site characteristics are associated with participation, with the goal of identifying potential disparities in research representation and sample availability. 
 # Objectives
 Analyze patient consent rates in a clinical trial setting  
 Evaluate tissue submission rates among participants  
